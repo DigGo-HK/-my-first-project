@@ -2,21 +2,18 @@
 
 This is my first GitHub repository created for learning version control.
 
-## 🎯 Purpose
+## Purpose
 - Learn Git and GitHub basics
 - Practice version control workflows
 - Build a portfolio of projects
 
-## 📁 Project Structure
+## Project Structure
 Will be updated as I add more files.
 
-## 🚀 How to Run
+## How to Run
 Instructions will be added later.
 
-## 📝 License
+## License
 This project is open source.
-
----
-
 
 Repository created on 7 Feb 2026 as part of my GitHub learning journey.*
